@@ -10,8 +10,8 @@ History:
 
 Content:
 
-Get-CorePlatform: determines on which platform the PS Core sessions is running
-New-CoreScheduledTask: create a scheduled task
+- Get-CorePlatform: determines on which platform the PS Core sessions is running
+- New-CoreScheduledTask: create a scheduled task
 
 
 ToDo:
